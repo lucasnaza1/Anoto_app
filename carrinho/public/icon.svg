@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fundo azul da marca -->
+  <rect width="512" height="512" rx="112" fill="#1B34C9"/>
+  <!-- Etiqueta amarela inclinada com furo -->
+  <g transform="rotate(-8 256 256)">
+    <rect x="96" y="196" width="320" height="176" rx="28" fill="#FFD23F"/>
+    <circle cx="140" cy="284" r="14" fill="#1B34C9"/>
+    <text x="176" y="322" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="800" fill="#14204D">R$</text>
+  </g>
+  <!-- Alça do carrinho -->
+  <path d="M150 96 L216 96 L252 160" fill="none" stroke="#EEF1FF" stroke-width="30" stroke-linecap="round"/>
+</svg>
